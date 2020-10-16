@@ -5,13 +5,13 @@
 
 <h2>if you want to download the press <a href="https://drive.google.com/file/d/1RHx9u2D8JinF9fBU_CYCo8M28CaAdgkQ/view?usp=sharing">Here</a></h2>
   
-<h2>
-  how it like this app and texknologies used for
-</h2>
-<h3> 
+<h3>
+  what texknologies used for this app:
+</h3>
+<h4> 
   -used react-native to build the app <br/>
   -Async-Storage to save data locally
-<h3/>
+<h4/>
   
 <hr/>
 
