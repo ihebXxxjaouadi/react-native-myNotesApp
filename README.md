@@ -3,7 +3,7 @@
   <img src='images/app-img1.png' width='50' />
 </div>
 
-<h1>if you want to download the press <a href="https://drive.google.com/file/d/1RHx9u2D8JinF9fBU_CYCo8M28CaAdgkQ/view?usp=sharing">Download</a></h1>
+<h2>if you want to download the press <a href="https://drive.google.com/file/d/1RHx9u2D8JinF9fBU_CYCo8M28CaAdgkQ/view?usp=sharing">Here</a></h2>
   
 <h2>
   how it like this app and texknologies used for
@@ -17,6 +17,6 @@
 
 <h4>my notes app <img src='images/app-img1.png' width='20' /></h4>
 
-<img src='images/app-img2.png' width='900' />
+<img src='images/app-img2.png' width='300' />
   
   
