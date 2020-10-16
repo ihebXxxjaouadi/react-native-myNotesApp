@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "my notes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+	"android": {
+      "package": "gl.js.app",
+      "permissions": [],
+      "versionCode": 1
+	}
+  }
+}
