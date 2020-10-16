@@ -17,6 +17,6 @@
 
 <h4>my notes app <img src='images/app-img1.png' width='20' /></h4>
 
-<img src='images/app-img2.png' width='220' />
+<img src='images/app-img2.png' width='300' />
   
   
