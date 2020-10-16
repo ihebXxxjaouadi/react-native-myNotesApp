@@ -2,12 +2,14 @@
   <h1> my_notes App(mobile version) </h1>
   <img src='images/app-img1.png' width='50' />
 </div>
+
+<h1>if you want to download the press <a href="https://drive.google.com/file/d/1RHx9u2D8JinF9fBU_CYCo8M28CaAdgkQ/view?usp=sharing">Download</a></h1>
   
 <h2>
-  this app is:
+  how it like this app and texknologies used for
 </h2>
 <h3> 
-  -used react-native to build the app
+  -used react-native to build the app <br/>
   -Async-Storage to save data locally
 <h3/>
   
